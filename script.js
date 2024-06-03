@@ -20,6 +20,7 @@ class ExecutiveMember {
     }
 }
 
+
 class AttendanceSystem {
     constructor() {
         this.loadMembers();
